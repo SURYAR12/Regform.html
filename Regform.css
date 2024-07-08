@@ -1,0 +1,30 @@
+
+.container{
+   background-color: #031301;
+   margin:10px 185px;
+   padding:10px;
+   border-radius:20px;
+}
+
+
+label{
+   font-weight:bold;
+   display: block;
+   margin:20px;
+}
+input{
+   border-radius: 30px;
+}
+   body{
+       display: blick;
+       text-align: center;
+   }
+   button{
+       margin: 30px;
+       background-color: #ff0a0a;
+   }
+
+
+
+
+
